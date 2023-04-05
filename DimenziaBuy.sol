@@ -1,8 +1,8 @@
 // SPDX-License-Identifier: MIT
 
 
-//KULLANILIYOR
-
+//KULLANILIYOR. EARTH 2.0 MINT
+//https://goerli.etherscan.io/address/0x65BBce60c0c97c933117E6995bDd4805caB58479#code
 pragma solidity ^0.8.7;
 
 import "@openzeppelin/contracts@4.8.1/token/ERC721/ERC721.sol";
