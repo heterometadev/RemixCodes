@@ -1,4 +1,8 @@
 // SPDX-License-Identifier: MIT
+
+
+//KULLANILIYOR
+
 pragma solidity ^0.8.7;
 
 import "@openzeppelin/contracts@4.8.1/token/ERC721/ERC721.sol";
